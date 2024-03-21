@@ -1,1 +1,1 @@
-# oled_bad_apple
+# Playing bad apple on a 0.96" Oled display
